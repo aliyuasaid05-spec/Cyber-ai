@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Cyber AI</string>
+    <string name="nav_command">Command</string>
+    <string name="nav_scanner">Scanner</string>
+    <string name="nav_copilot">Copilot</string>
+    <string name="nav_toolkit">Toolkit</string>
+
+    <string name="hero_badge">DEFENSIVE AI ENGINE</string>
+    <string name="hero_title">Cyber AI Command</string>
+    <string name="hero_subtitle">Real-time threat triage, multimodal phishing inspection, and cryptographic defense.</string>
+
+    <string name="posture_title">Security Posture</string>
+    <string name="posture_subtitle">Computed from your active hardening controls</string>
+    <string name="quick_triage_title">Quick Threat Triage</string>
+    <string name="recent_scans_title">Recent Threat Scans</string>
+    <string name="empty_scans_title">No threats scanned yet</string>
+    <string name="empty_scans_subtitle">Paste a suspicious link, email, code snippet, or upload a screenshot in the Scanner tab.</string>
+    <string name="action_open_scanner">Launch Threat Scanner</string>
+
+    <string name="scanner_title">AI Threat Scanner</string>
+    <string name="scanner_subtitle">Inspect suspicious emails, SMS, URLs, logs, code, or screenshots with Gemini AI.</string>
+    <string name="scanner_input_label">Suspicious text, URL, log, or code</string>
+    <string name="scanner_input_placeholder">Paste an email, SMS, link, terminal log, or code snippet to analyze...</string>
+    <string name="action_attach_screenshot">Attach Screenshot</string>
+    <string name="action_remove_screenshot">Remove image</string>
+    <string name="action_run_scan">Analyze Threat</string>
+    <string name="action_scanning">Analyzing with Cyber AI...</string>
+    <string name="action_ask_copilot">Ask Copilot</string>
+    <string name="action_copy_report">Copy Report</string>
+    <string name="indicators_title">Indicators of Compromise</string>
+    <string name="remediation_title">Recommended Remediation</string>
+
+    <string name="copilot_title">Cyber Copilot</string>
+    <string name="copilot_subtitle">Streaming defensive security analyst</string>
+    <string name="copilot_input_placeholder">Ask about phishing, CVEs, hardening, or incident response...</string>
+    <string name="action_send_message">Send message</string>
+    <string name="action_clear_chat">New session</string>
+
+    <string name="toolkit_title">Defense Toolkit</string>
+    <string name="toolkit_subtitle">On-device cryptography, encoding, and hardening</string>
+    <string name="tab_passwords">Password Lab</string>
+    <string name="tab_crypto">Hash &amp; Base64</string>
+    <string name="tab_hardening">Hardening</string>
+
+    <string name="cd_hero_banner">Cyber AI defense horizon banner</string>
+    <string name="cd_empty_vault">Holographic cyber shield illustration</string>
+    <string name="cd_theme_toggle">Switch color theme</string>
+    <string name="cd_copy">Copy to clipboard</string>
+</resources>

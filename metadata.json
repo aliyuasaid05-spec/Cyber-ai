@@ -1,0 +1,6 @@
+{
+  "name": "Cyber AI",
+  "description": "AI-powered cybersecurity threat analyzer, defensive copilot, and device hardening toolkit.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
